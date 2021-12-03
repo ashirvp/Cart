@@ -4,7 +4,7 @@ var router = express.Router();
 
 let product=[
   {
-    name:"Iphone 13",
+    name:"Iphone 13 Pro",
     category:"Mobile",
     discription:"This is mannans iphone 13",
     image:"https://images.financialexpress.com/2021/09/iphone13-main.jpg"
